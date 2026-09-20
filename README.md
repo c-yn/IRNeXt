@@ -23,7 +23,7 @@ cd ..
 ~~~
 
 ## [Images](https://drive.google.com/drive/folders/1I1IGN_S77hfqto3tptgLZauAxoa-dTiW?usp=sharing)
-
+## Download the model [here](https://drive.google.com/drive/folders/1Tfc41xL0i25a_Tu-bLR7jRWMswyjZ9TR?usp=share_link)
 
 ## Citation
 If you find this project useful for your research, please consider citing:
